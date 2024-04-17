@@ -4,15 +4,15 @@ I'm a Computer Science and Mathematics student at the University of British Colu
 
 Here are some projects that I have worked on in the past:
 
- - WestPeak Research Association Website
- - EncryptDecrypt
- - Foodease
- - Detoxify
- - Treegen
+ - [WestPeak Research Association Website](https://westpeakresearch.com/) ([Repository](https://github.com/WestPeakResearch/WestPeakWebsite))
+ - EncryptDecrypt ([Repository](https://github.com/Papershine/EncryptDecrypt))
+ - Foodease ([Repository](https://github.com/alan-w-u/foodease))
+ - Detoxify ([Repository](https://github.com/mxrah10/toxicity-censor))
+ - Treegen ([Repository](https://github.com/Papershine/Treegen))
 
 I am also part of these open source projects:
 
- - SmokeDetector
+ - [SmokeDetector](https://charcoal-se.org/smokey/) ([Repository](https://github.com/Charcoal-SE/SmokeDetector))
 
 <!--
 **Papershine/Papershine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
