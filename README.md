@@ -10,8 +10,9 @@ Here are some projects that I have worked on in the past:
  - Detoxify ([Repository](https://github.com/mxrah10/toxicity-censor))
  - Treegen ([Repository](https://github.com/Papershine/Treegen))
 
-I am also part of these open source projects:
+I also contribute to these open source projects:
 
+ - [p5.js](https://p5js.org/) ([Repository](https://github.com/processing/p5.js))
  - [SmokeDetector](https://charcoal-se.org/smokey/) ([Repository](https://github.com/Charcoal-SE/SmokeDetector))
 
 <!--
