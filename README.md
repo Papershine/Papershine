@@ -4,7 +4,7 @@ I'm a Computer Science and Mathematics student at the University of British Colu
 
 Here are some projects that I have worked on in the past:
 
- - UBC Workday Calendar by Term Chrome Extension ([Repository](https://github.com/Papershine/ubcworkday-calendar-by-term))
+ - [UBC Workday Calendar by Term Chrome Extension](https://chromewebstore.google.com/detail/ubc-workday-calendar-by-t/hndfdmodlnjnpkihhmjaldminehkphbm) ([Repository](https://github.com/Papershine/ubcworkday-calendar-by-term))
  - [WestPeak Research Association Website](https://westpeakresearch.com/) ([Repository](https://github.com/WestPeakResearch/WestPeakWebsite))
  - EncryptDecrypt ([Repository](https://github.com/Papershine/EncryptDecrypt))
  - Foodease ([Repository](https://github.com/alan-w-u/foodease))
