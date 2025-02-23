@@ -1,17 +1,15 @@
-### Hey my name is Hilary!
+### 👋, I'm Hilary!
 
-I'm a Computer Science and Mathematics student at the University of British Columbia in Vancouver, BC.
+I'm a Computer Science and Mathematics student at the University of British Columbia in Vancouver, BC. [Here's my personal portfolio website!](https://hilarylau.io/)
 
-Here are some projects that I have worked on in the past:
+Here are some of my favourite projects!
 
- - [UBC Workday Calendar by Term Chrome Extension](https://chromewebstore.google.com/detail/ubc-workday-calendar-by-t/hndfdmodlnjnpkihhmjaldminehkphbm) ([Repository](https://github.com/Papershine/ubcworkday-calendar-by-term))
- - [WestPeak Research Association Website](https://westpeakresearch.com/) ([Repository](https://github.com/WestPeakResearch/WestPeakWebsite))
- - WestPeak Research Association Utils ([Repository](https://github.com/WestPeakResearch/utils))
- - Convex Optimization ([Repository](https://github.com/Papershine/ConvexOptimization))
- - EncryptDecrypt ([Repository](https://github.com/Papershine/EncryptDecrypt))
- - Foodease ([Repository](https://github.com/alan-w-u/foodease))
- - Detoxify ([Repository](https://github.com/mxrah10/toxicity-censor))
- - Treegen ([Repository](https://github.com/Papershine/Treegen))
+ - ♾️ infinifractal ([Repository](https://github.com/Papershine/infinifractal))
+ - 🗓️ [UBC Workday Calendar by Term Chrome Extension](https://chromewebstore.google.com/detail/ubc-workday-calendar-by-t/hndfdmodlnjnpkihhmjaldminehkphbm) ([Repository](https://github.com/Papershine/ubcworkday-calendar-by-term))
+ - 🏔️ [WestPeak Research Association Website](https://westpeakresearch.com/) ([Repository](https://github.com/WestPeakResearch/WestPeakWebsite))
+ - 🔢 EncryptDecrypt ([Repository](https://github.com/Papershine/EncryptDecrypt))
+ - 🍽️ Foodease ([Repository](https://github.com/alan-w-u/foodease))
+ - 𐂷 Treegen ([Repository](https://github.com/Papershine/Treegen))
 
 I also contribute to these open source projects:
 
